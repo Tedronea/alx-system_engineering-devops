@@ -13,3 +13,8 @@
 12-Prints the type of the file named iamafile
 13-Creates a symbolic link named __ls__ to /bin/ls
 14-Copies all html files new to the parent of the current directory from the current directory to its parent
+15-Moves files beginning by upper case to /tmp/u
+16-Deletes all files in current directory ending by ~
+17-Creates directories welcome, welcome/to and welcome/to/school
+18-Displays all the files of the current directories in a certain way
+19-Creates a magic file that can be used with the command file
